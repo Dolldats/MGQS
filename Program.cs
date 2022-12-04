@@ -14,13 +14,8 @@ namespace startApp
                 if (text.Length <= 10)
                 {
                     Console.WriteLine("You are require to enter more than 10 character!!!");
-                    break;
+                    return;
                 }
-                else
-                {
-                    Console.WriteLine("");
-                }
-
             }
 
             string a = text.Substring(0, text.Length / 2);
