@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\startApp\obj\Debug\net6.0\startApp.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\startApp\obj\Debug\net6.0\startApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\startApp\obj\Debug\net6.0\startApp.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\startApp\obj\Debug\net6.0\startApp.AssemblyInfo.cs
+C:\Users\USER\Desktop\startApp\obj\Debug\net6.0\startApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\startApp\bin\Debug\net6.0\startApp.exe
+C:\Users\USER\Desktop\startApp\bin\Debug\net6.0\startApp.deps.json
+C:\Users\USER\Desktop\startApp\bin\Debug\net6.0\startApp.runtimeconfig.json
+C:\Users\USER\Desktop\startApp\bin\Debug\net6.0\startApp.dll
+C:\Users\USER\Desktop\startApp\bin\Debug\net6.0\startApp.pdb
+C:\Users\USER\Desktop\startApp\obj\Debug\net6.0\startApp.dll
+C:\Users\USER\Desktop\startApp\obj\Debug\net6.0\refint\startApp.dll
+C:\Users\USER\Desktop\startApp\obj\Debug\net6.0\startApp.pdb
+C:\Users\USER\Desktop\startApp\obj\Debug\net6.0\startApp.genruntimeconfig.cache
+C:\Users\USER\Desktop\startApp\obj\Debug\net6.0\ref\startApp.dll
